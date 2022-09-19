@@ -1,0 +1,1 @@
+<block wx:if="{{isReady}}"><canvas class="myCanvas data-v-17a54696" style="{{('width:'+width+'px;height:'+height+'px;')}}" canvas-id="{{canvasId}}"></canvas></block>

@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "range-slider": "/components/range-slider/range-slider",
+    "good-list": "/components/goodList"
+  }
+}

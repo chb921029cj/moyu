@@ -1,0 +1,10 @@
+{
+  "usingComponents": {
+    "footer-tabbar": "/components/footer/footer-tabbar",
+    "home-index": "/components/view/homeIndex",
+    "my-list": "/components/view/myList",
+    "my": "/components/view/my",
+    "my-collection": "/components/view/myCollection",
+    "chb-fab": "/components/chb-fab/chb-fab"
+  }
+}

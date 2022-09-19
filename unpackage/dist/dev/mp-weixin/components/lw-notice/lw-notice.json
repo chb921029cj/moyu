@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "lw-icon": "/components/lw-notice/iconFont"
+  }
+}

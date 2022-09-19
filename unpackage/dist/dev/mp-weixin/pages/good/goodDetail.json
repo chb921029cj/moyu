@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "chb-share": "/components/chb-share/chb-share"
+  }
+}

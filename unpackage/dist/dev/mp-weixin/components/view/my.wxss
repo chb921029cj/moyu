@@ -1,0 +1,112 @@
+@charset "UTF-8";
+/**
+ * 这里是uni-app内置的常用样式变量
+ *
+ * uni-app 官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量
+ * 如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需 import 这个文件），方便用户通过搭积木的方式开发整体风格一致的App
+ *
+ */
+/**
+ * 如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能
+ *
+ * 如果你的项目同样使用了scss预处理，你也可以直接在你的 scss 代码中使用如下变量，同时无需 import 这个文件
+ */
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.my.data-v-b6704a2a {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  height: 100%;
+  display: none;
+}
+.my.show.data-v-b6704a2a {
+  display: flex;
+  padding-bottom: 100rpx;
+}
+@-webkit-keyframes rote-data-v-b6704a2a {
+from {
+    -webkit-transform: rotateZ(0);
+            transform: rotateZ(0);
+}
+to {
+    -webkit-transform: rotateZ(360deg);
+            transform: rotateZ(360deg);
+}
+}
+@keyframes rote-data-v-b6704a2a {
+from {
+    -webkit-transform: rotateZ(0);
+            transform: rotateZ(0);
+}
+to {
+    -webkit-transform: rotateZ(360deg);
+            transform: rotateZ(360deg);
+}
+}
+.my .my-content.data-v-b6704a2a {
+  position: fixed;
+  z-index: 1024;
+  width: 750rpx;
+  height: 90%;
+  top: 0;
+  overflow: hidden;
+  background: #FEFEFE;
+}
+.my .my-content .me-detail.data-v-b6704a2a {
+  box-sizing: border-box;
+  position: relative;
+  width: 600rpx;
+  margin: 0 auto;
+  top: -100rpx;
+  background: #FEFEFE;
+  padding: 35rpx;
+  box-sizing: border-box;
+  box-shadow: 0rpx 2rpx 5rpx #EDEDED;
+  border-radius: 16rpx;
+}
+.my .my-content .me-detail image.data-v-b6704a2a {
+  position: absolute;
+  top: -100rpx;
+  left: 165rpx;
+}
+.my .my-content .me-detail .gender.data-v-b6704a2a {
+  position: absolute;
+  width: 48rpx;
+  border-radius: 50%;
+  font-size: 48rpx;
+  right: 165rpx;
+  top: -50rpx;
+}
+.my .my-content .list .content.data-v-b6704a2a {
+  display: flex;
+  align-items: center;
+}
+.my .my-content .action-item.data-v-b6704a2a {
+  width: 375rpx;
+  display: inline-block;
+  padding: 0 20rpx;
+}
+.my .my-content .action-item image.data-v-b6704a2a {
+  width: 335rpx;
+  height: 188rpx;
+  border-radius: 16rpx;
+}
+.my .canvas.data-v-b6704a2a {
+  width: 100%;
+  height: 700rpx;
+}
+

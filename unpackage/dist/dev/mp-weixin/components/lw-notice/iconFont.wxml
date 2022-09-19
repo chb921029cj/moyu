@@ -1,0 +1,1 @@
+<text data-event-opts="{{[['tap',[['_onClick',['$event']]]]]}}" class="{{['lw-icons','data-v-5968eb78',(isTheme)?'isTheme':'']}}" style="{{'color:'+(color)+';'+('font-size:'+(size+'rpx')+';')}}" bindtap="__e">{{icons[icon]}}</text>

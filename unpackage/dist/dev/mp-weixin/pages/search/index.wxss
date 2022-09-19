@@ -1,0 +1,9 @@
+
+page {
+	/* background-color: #f2f2f2; */
+}
+.my-theme-bg {
+	background: linear-gradient(117deg, #60DF9D, #31CB7B);
+	color: #fff;
+}
+

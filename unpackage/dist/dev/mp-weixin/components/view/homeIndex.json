@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "chb-fab": "/components/chb-fab/chb-fab",
+    "lw-notice": "/components/lw-notice/lw-notice",
+    "good-list": "/components/goodList"
+  }
+}
